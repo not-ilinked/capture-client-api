@@ -1,0 +1,18 @@
+{
+  "name": "capture-client-api",
+  "version": "0.0.1",
+  "description": "Wrapper for the CAPTURE Client API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npx tsc"
+  },
+  "author": "iLinked",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
