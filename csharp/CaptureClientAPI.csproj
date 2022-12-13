@@ -10,6 +10,7 @@
     <FileVersion>0.1.0</FileVersion>
     <Authors>iLinked</Authors>
     <PackageProjectUrl>https://capturesolver.cloud/discord</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/not-ilinked/capture-client-api</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

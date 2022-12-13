@@ -2,7 +2,10 @@ The Capture Client API is a RESTful, local API exposed through whatever port you
 
 # SDK's
 SDK's for the API can be found in the folders of this repository.
-Links to the packages on NuGet, npm, etc. will be added later.
+Alternatively, install the one for your preferred language here:
+- C#: https://nuget.org/packages/CaptureClientAPI
+- Node.js: https://npmjs.com/package/capture-client-api
+- Python: https://pypi.org/project/captureclientapi
 
 # API
 The base url for all endpoints is `http://localhost:7777` (or whatever you've set the port to).
@@ -29,7 +32,7 @@ Solves a CAPTCHA challenge for the given site.
 }
 ```
 
-#### Example response body*
+#### Example response body
 ```json
 {
   "solution": "captcha solution/key here"

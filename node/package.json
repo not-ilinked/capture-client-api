@@ -1,7 +1,7 @@
 {
   "name": "capture-client-api",
-  "version": "0.0.1",
-  "description": "Wrapper for the CAPTURE Client API",
+  "version": "0.1.2",
+  "description": "Wrapper for the Capture Client API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
